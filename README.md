@@ -20,11 +20,10 @@
   After looking through the data, we realzied that many of our data points had incomplete infromation. We decided the best way to deal with this was to simply remove any data entry that was missing information. This took our data sample down from a size of roughly 16000 to 6000, which we felt was still enough of a smaple size to anser our questoins.
 
 # Methods
-  Tools:
-  
-     Pandas for data cleaning and analysis
-          
-     matplotlib.pyplot and seaborn for data visualization
+  Tools: 
+   Pandas for data cleaning and analysis
+   
+   matplotlib.pyplot and seaborn for data visualization
           
 
 # Results
