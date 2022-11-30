@@ -1,11 +1,17 @@
 # DataSciencePoject
 
 # Introduction
-  The objective of our project was to practice visualizing data in Python. Specifiaclly we wanted to look at data conerning videogames sales to see if we could create charts to answer the three questions we had. Those question were (put questions here)
+  The objective of our project was to practice visualizing data in Python. Specifiaclly we wanted to look at data conerning videogames sales to see if we could create charts to answer the three questions we had. Those question were:
+  
+   1. How many games in each genre?
+        
+   2. Does the User_Score correlate with the Critic_Score?
+    
+   3. What is the breakdown of games sold on each Platform every year?
 
 
 # Selection of Data
-  All data manipualtion was done in a Juypter notebook (link to notebook here later)
+  All data manipualtion was done in a Juypter notebook (https://github.com/edyer01/DataSciencePoject/blob/main/DS_Final_Videogame_Data.ipynb)
 
   The data was taken from a set found on Kaggle (https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
   
