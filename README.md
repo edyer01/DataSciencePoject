@@ -24,8 +24,10 @@
   ![alt text](https://github.com/edyer01/DataSciencePoject/blob/main/Q1.jpg)
   
   Question 2:
+  ![alt text](https://github.com/edyer01/DataSciencePoject/blob/main/Q2.jpg)
   
   Question 3:
+  ![alt text](https://github.com/edyer01/DataSciencePoject/blob/main/Q3.jpg)
 
 # Discussion
 
