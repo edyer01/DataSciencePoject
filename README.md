@@ -28,8 +28,17 @@
   
   Question 3:
   ![alt text](https://github.com/edyer01/DataSciencePoject/blob/main/Q3.jpg)
+  
+  To answer this question, we decided to create a stacked area graph. Each color represents one platform, and the area of that color shows how many total games were sold globably on that specific platform for that year.
 
 # Discussion
+Question 1:
+
+Question 2:
+
+Question 3:
+ 
+ The most interesting result from this graph is how quickly games sales for a platfrom drop off when a newer version of the platfrom is released.
 
 # References
   https://www.geeksforgeeks.org/pandas-groupby-multiple-values-and-plotting-results/
