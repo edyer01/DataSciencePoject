@@ -22,7 +22,9 @@
 # Methods
   Tools:
           Pandas for data cleaning and analysis
+          
           matplotlib.pyplot and seaborn for data visualization
+          
 
 # Results
   Question 1:
