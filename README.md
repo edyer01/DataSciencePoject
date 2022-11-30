@@ -11,7 +11,7 @@
 
 
 # Selection of Data
-  All data manipualtion was done in a Juypter notebook (https://github.com/edyer01/DataSciencePoject/blob/main/DS_Final_Videogame_Data.ipynb)
+  All data manipualtion and visualization was done in a Juypter notebook (https://github.com/edyer01/DataSciencePoject/blob/main/DS_Final_Videogame_Data.ipynb)
 
   The data was taken from a set found on Kaggle (https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
   
@@ -20,10 +20,9 @@
   After looking through the data, we realzied that many of our data points had incomplete infromation. We decided the best way to deal with this was to simply remove any data entry that was missing information. This took our data sample down from a size of roughly 16000 to 6000, which we felt was still enough of a smaple size to anser our questoins.
 
 # Methods
-  Tools: Pandas, matplotlib.pyplot, and seaborn
-  
-  
-
+  Tools:
+          Pandas for data cleaning and analysis
+          matplotlib.pyplot and seaborn for data visualization
 
 # Results
   Question 1:
