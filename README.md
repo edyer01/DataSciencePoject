@@ -21,6 +21,7 @@
 
 # Results
   Question 1:
+  ![alt text](https://github.com/edyer01/DataSciencePoject/blob/main/Q1.jpg)
   
   Question 2:
   
