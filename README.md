@@ -28,6 +28,6 @@
 
 # Discussion
 
-#References
+# References
   https://www.geeksforgeeks.org/pandas-groupby-multiple-values-and-plotting-results/
   https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.area.html
