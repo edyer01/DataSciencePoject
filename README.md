@@ -44,6 +44,8 @@
 # Discussion
 Question 1:
 
+Question 1: When we were trying to figure out how many games in each genre, we had to first figure out the types of genre that were already part of the dataset that we used. While combining this data we were able to figure out the final result. The highest numbers of games being in the action category, while puzzle games being the lowest amount of games produced. We used a bar graph to show the results because it helps us measure out the difference in numbers a lot easier.
+
 Question 2:
 
 On a quick glance, the scatter plot seems to be quite random with no obvious correlation. However, Critic and User scores are directly proportionate as there is a trend toward high scores from both parties. Despite this proportion, there are many games scattered across the plot that make pinning down a best fit line difficult. Interestingly, there are a plethora of games where User scores are higher then the Critic scores. The reason for this could be that users could be rating the game purely on how fun it is to play. The outliers, games with high scores for one party but low for the other, will be interesting to dissect to see why there is a disagreement in scores.
