@@ -34,6 +34,8 @@
   Question 2:
   ![alt text](https://github.com/edyer01/DataSciencePoject/blob/main/Q2.jpg)
   
+  For this question, we created a scatter plot. Along the x axis is Critic_Score and the y axis is User_Score.
+  
   Question 3:
   ![alt text](https://github.com/edyer01/DataSciencePoject/blob/main/Q3.jpg)
   
@@ -43,6 +45,8 @@
 Question 1:
 
 Question 2:
+
+On a quick glance, the scatter plot seems to be quite random with no obvious correlation. However, Critic and User scores are directly proportionate as there is a trend toward high scores from both parties. Despite this proportion, there are many games scattered across the plot that make pinning down a best fit line difficult. Interestingly, there are a plethora of games where User scores are higher then the Critic scores. The reason for this could be that users could be rating the game purely on how fun it is to play. The outliers, games with high scores for one party but low for the other, will be interesting to dissect to see why there is a disagreement in scores.
 
 Question 3:
  
