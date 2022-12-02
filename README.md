@@ -44,7 +44,7 @@
 # Discussion
 Question 1:
 
-Question 1: When we were trying to figure out how many games in each genre, we had to first figure out the types of genre that were already part of the dataset that we used. While combining this data we were able to figure out the final result. The highest numbers of games being in the action category, while puzzle games being the lowest amount of games produced. We used a bar graph to show the results because it helps us measure out the difference in numbers a lot easier.
+When we were trying to figure out how many games in each genre, we had to first figure out the types of genre that were already part of the dataset that we used. While combining this data we were able to figure out the final result. The highest numbers of games being in the action category, while puzzle games being the lowest amount of games produced. We used a bar graph to show the results because it helps us measure out the difference in numbers a lot easier.
 
 Question 2:
 
