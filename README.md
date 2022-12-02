@@ -31,6 +31,8 @@
   Question 1:
   ![alt text](https://github.com/edyer01/DataSciencePoject/blob/main/Q1.jpg)
   
+  We decided to create a bar chart that counts the number of enteries in each genre to answer this question 
+  
   Question 2:
   ![alt text](https://github.com/edyer01/DataSciencePoject/blob/main/Q2.jpg)
   
