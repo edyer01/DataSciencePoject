@@ -40,11 +40,11 @@
   To answer this question, we decided to create a stacked area graph. Each color represents one platform, and the area of that color shows how many total games were sold globably on that specific platform for that year.
 
 # Discussion
-Question 1:
+Question 1: When we were trying to figure out how many games in each genre, we had to first figure out the types of genre that were already part of the dataset that we used. While combining this data we were able to figure out the final result. The highest numbers of games being in the action category, while puzzle games being the lowest amount of games produced. We used a bar graph to show the results because it helps us measure out the difference in numbers a lot easier. 
 
-Question 2:
+Question 2: Next we wanted to figure out whether the results of the User_Score correlate or mimic the results of the Critic_Score. When buying games, you first want to know whether the game is worth the money it is to buy it. Usually when a new game comes out you can find the Critic_Score before the User_Score. But, how does that equate? Does it have any effect, from what we found out, no, it doesn't. 
 
-Question 3:
+Question 3: For our last question, we decided to figure out the breakdown between each platform each year. This was a challenge as we first had to figure out the platform breakdown. To do that, we needed to name every platform and make sure we had enough data for chart to be usable. After getting all of the platforms down, we organized the games released each year with their platforms, which helped us create a chart showing that the xbox one had the most releases in a single year then every other platform. 
  
  The most interesting result from this graph is how quickly games sales for a platfrom drop off when a newer version of the platfrom is released. The reason behind this dropoff could be from two potential reasons. First, it could be becuase when a new version of a platform is released, video game publishers all stop publishing games on old platforms as they look to publish games on the new platform instead. Similarly, the release of a new platfrom could prompt all users of the old platfrom to stop buying games on the old platform as they have purchased the new platfrom and are purchasing games on that platfrom instead.
 
