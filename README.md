@@ -64,9 +64,11 @@ Question 3:
   Q1: Use Machine Learning to try to predict which genres will have higher global sales in the future
   Q2: Use Scikit to create a linear regression for our User Score vs Critic Score chart to get a more precise understand of their correlation
   Q3: Year by year breakdowns of other categories like publisher or rating to see if any similar trends exist in those categories
-![image](https://user-images.githubusercontent.com/97764026/205745708-e5dac927-e1cc-48a2-9aae-4cfc5b46eab4.png)
 
 
 # References
   https://www.geeksforgeeks.org/pandas-groupby-multiple-values-and-plotting-results/
   https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.area.html
+  https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.astype.html
+  https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings
+
