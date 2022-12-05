@@ -55,6 +55,18 @@ On a quick glance, the scatter plot seems to be quite random with no obvious cor
 Question 3:
  
  The most interesting result from this graph is how quickly games sales for a platfrom drop off when a newer version of the platfrom is released. The reason behind this dropoff could be from two potential reasons. First, it could be becuase when a new version of a platform is released, video game publishers all stop publishing games on old platforms as they look to publish games on the new platform instead. Similarly, the release of a new platfrom could prompt all users of the old platfrom to stop buying games on the old platform as they have purchased the new platfrom and are purchasing games on that platfrom instead.
+ 
+# Conclusion & Future Directions
+  
+  We were able to successfully able to create graphs that answered all our questions
+
+  The the future we would like to look into the following for each questions:
+  
+    Q1: Use Machine Learning to try to predict which genres will have higher global sales in the future
+    Q2: Use Scikit to create a linear regression for our User Score vs Critic Score chart to get a more precise understand of their correlation
+    Q3: Year by year breakdowns of other categories like publisher or rating to see if any similar trends exist in those categories
+![image](https://user-images.githubusercontent.com/97764026/205745708-e5dac927-e1cc-48a2-9aae-4cfc5b46eab4.png)
+
 
 # References
   https://www.geeksforgeeks.org/pandas-groupby-multiple-values-and-plotting-results/
