@@ -11,8 +11,7 @@
 
 
 # Selection of Data
-  All data manipualtion and visualization was done in a Juypter notebook (https://github.com/edyer01/DataSciencePoject/blob/main/DS_Final_Videogame_Data.ipynb)
-
+  
   The data was taken from a set found on Kaggle (https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
   
   The data has 16 characteristics: Name, Platform, Year_of_Release, Genre, Publisher, NA_Sales, EU_Sales, JP_Sales, Other_Sales, Global_Sales, Critic_Score, Critic_Count, User_Score, User_Count, Developer, and Rating
@@ -22,6 +21,8 @@
 # Methods
   Tools: 
   
+   All data manipualtion and visualization was done in a Juypter notebook (https://github.com/edyer01/DataSciencePoject/blob/main/DS_Final_Videogame_Data.ipynb)
+   
    Pandas for data cleaning and analysis
    
    matplotlib.pyplot and seaborn for data visualization
@@ -62,16 +63,16 @@ Question 3:
 
   The the future we would like to look into the following for each questions:
   
-  Q1: Use Machine Learning to try to predict which genres will have higher global sales in the future
+   Q1: Use Machine Learning to try to predict which genres will have higher global sales in the future
   
-  Q2: Use Scikit to create a linear regression for our User Score vs Critic Score chart to get a more precise understand of their correlation
+   Q2: Use Scikit to create a linear regression for our User Score vs Critic Score chart to get a more precise understand of their correlation
   
-  Q3: Year by year breakdowns of other categories like publisher or rating to see if any similar trends exist in those categories
+   Q3: Year by year breakdowns of other categories like publisher or rating to see if any similar trends exist in those categories
 
 
 # References
   https://www.geeksforgeeks.org/pandas-groupby-multiple-values-and-plotting-results/
   https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.area.html
-  https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.astype.html
-  https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings
+   https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.astype.html
+   https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings
 
